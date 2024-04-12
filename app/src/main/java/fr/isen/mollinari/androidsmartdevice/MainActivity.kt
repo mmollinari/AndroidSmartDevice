@@ -78,6 +78,6 @@ fun MainComponent(action: () -> Unit) {
 @Composable
 fun GreetingPreview() {
     AndroidSmartDeviceTheme {
-        MainComponent() {}
+        MainComponent {}
     }
 }

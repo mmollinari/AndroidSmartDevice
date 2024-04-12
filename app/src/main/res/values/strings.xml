@@ -11,8 +11,10 @@
     <string name="main_action">commencer</string>
     <string name="device_loading_title">Connexion à l\'appareil %1$s \n en cours …</string>
     <string name="device_led_text">Affichage des différentes LED</string>
-    <string name="device_counter_subscribe_text">Abonnez vous pour recevoir le nombre d\'incrémentation</string>
+    <string name="device_notification_subscribe_text">Abonnez vous pour recevoir le nombre d\'incrémentation</string>
+    <string name="device_counter_subscribe_text">Abonnez vous pour recevoir la valeur de control</string>
     <string name="device_subscribe">RECEVOIR</string>
-    <string name="device_coutnter_text">Nombre :</string>
+    <string name="device_counter_text">Nombre :</string>
     <string name="title_activity_scan">ScanActivity</string>
+    <string name="title_activity_device">DeviceActivity</string>
 </resources>
