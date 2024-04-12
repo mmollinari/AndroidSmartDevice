@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidSmartDevice</string>
+    <string name="ble_scan_title_play">Lancer le Scan BLE</string>
+    <string name="ble_scan_title_pause">Scan BLE en cours …</string>
+    <string name="ble_scan_error">Erreur lors du scan BLE</string>
+    <string name="ble_scan_disabled">Activer le Bluethooth pour afficher la liste des appareils</string>
+    <string name="ble_scan_missing">Votre téléphone n\'est pas compatible avec le BLE</string>
+    <string name="ble_scan_default_name">Appareil inconnu</string>
+    <string name="main_title">Bienvenue dans votre application Smart Device</string>
+    <string name="main_description">Pour démarrer vos interactions avec les appareils BLE environants cliquer sur commencer</string>
+    <string name="main_action">commencer</string>
+    <string name="device_loading_title">Connexion à l\'appareil %1$s \n en cours …</string>
+    <string name="device_led_text">Affichage des différentes LED</string>
+    <string name="device_counter_subscribe_text">Abonnez vous pour recevoir le nombre d\'incrémentation</string>
+    <string name="device_subscribe">RECEVOIR</string>
+    <string name="device_coutnter_text">Nombre :</string>
+    <string name="title_activity_scan">ScanActivity</string>
+</resources>
